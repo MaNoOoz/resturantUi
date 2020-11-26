@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="549a3fcc-e5b4-437e-bdd6-c56c5915f2c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jhmsefz1tfnQy3FQZ4DvTYvwiO" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ios/Flutter" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="restueantUi" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="restueantUi" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="549a3fcc-e5b4-437e-bdd6-c56c5915f2c7" name="Default Changelist" comment="" />
+      <created>1604264906019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604264906019</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="481" y="154" key="#Images" timestamp="1604339804050">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="481" y="154" key="#Images/0.23.1536.857@0.23.1536.857" timestamp="1604339804050" />
+    <state width="1750" height="183" key="GridCell.Tab.0.bottom" timestamp="1606398966096">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="724" height="224" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1604265702050" />
+    <state width="1750" height="183" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1606398966096" />
+    <state width="1494" height="151" key="GridCell.Tab.0.bottom/0.23.1536.857@0.23.1536.857" timestamp="1604355392034" />
+    <state width="1750" height="183" key="GridCell.Tab.0.bottom/0.25.1792.1002@0.25.1792.1002" timestamp="1606398522824" />
+    <state width="1750" height="183" key="GridCell.Tab.0.center" timestamp="1606398966094">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="724" height="224" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1604265702049" />
+    <state width="1750" height="183" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1606398966094" />
+    <state width="1494" height="151" key="GridCell.Tab.0.center/0.23.1536.857@0.23.1536.857" timestamp="1604355392033" />
+    <state width="1750" height="183" key="GridCell.Tab.0.center/0.25.1792.1002@0.25.1792.1002" timestamp="1606398522822" />
+    <state width="1750" height="183" key="GridCell.Tab.0.left" timestamp="1606398966093">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="724" height="224" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1604265702048" />
+    <state width="1750" height="183" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1606398966093" />
+    <state width="1494" height="151" key="GridCell.Tab.0.left/0.23.1536.857@0.23.1536.857" timestamp="1604355392033" />
+    <state width="1750" height="183" key="GridCell.Tab.0.left/0.25.1792.1002@0.25.1792.1002" timestamp="1606398522821" />
+    <state width="1750" height="183" key="GridCell.Tab.0.right" timestamp="1606398966095">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="724" height="224" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1604265702050" />
+    <state width="1750" height="183" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1606398966095" />
+    <state width="1494" height="151" key="GridCell.Tab.0.right/0.23.1536.857@0.23.1536.857" timestamp="1604355392034" />
+    <state width="1750" height="183" key="GridCell.Tab.0.right/0.25.1792.1002@0.25.1792.1002" timestamp="1606398522822" />
+    <state x="314" y="88" key="SettingsEditor" timestamp="1606410007695">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="314" y="88" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1606410007695" />
+    <state x="269" y="90" key="SettingsEditor/0.23.1536.857@0.23.1536.857" timestamp="1604321242170" />
+    <state x="498" y="190" width="540" height="524" key="StructurePopup" timestamp="1604317581013">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="498" y="190" width="540" height="524" key="StructurePopup/0.23.1536.857@0.23.1536.857" timestamp="1604317581013" />
+    <state x="208" y="233" width="615" height="490" key="find.popup" timestamp="1604317669509">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="208" y="235" width="615" height="490" key="find.popup/0.0.1536.960@0.0.1536.960" timestamp="1604270592190" />
+    <state x="208" y="233" width="615" height="490" key="find.popup/0.23.1536.857@0.23.1536.857" timestamp="1604317669509" />
+    <state x="520" y="332" width="618" height="269" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1604339756886">
+      <screen x="0" y="23" width="1536" height="857" />
+    </state>
+    <state x="520" y="332" width="618" height="269" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.23.1536.857@0.23.1536.857" timestamp="1604339756886" />
+    <state x="211" y="245" width="782" height="706" key="search.everywhere.popup" timestamp="1606398369022">
+      <screen x="0" y="25" width="1792" height="1002" />
+    </state>
+    <state x="181" y="211" width="670" height="676" key="search.everywhere.popup/0.0.1536.960@0.0.1536.960" timestamp="1604266204677" />
+    <state x="211" y="245" width="782" height="706" key="search.everywhere.popup/0.25.1792.1002@0.25.1792.1002" timestamp="1606398369022" />
+  </component>
+</project>
